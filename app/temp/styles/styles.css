@@ -1019,7 +1019,7 @@ a {
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp. Instead edit gulp/templates/sprite */
 
 .icon {
-			background-image: url('/assets/images/sprites/sprite-69f19c2e.svg');
+			background-image: url('/assets/images/sprites/sprite-9a0f2a88.svg');
 				
 		}
 
@@ -1054,9 +1054,9 @@ a {
 	}
 
 .icon--instagram {
-		width: 42.01px;
-		height: 42.01px;
-		background-position: 63.2917018534157% 49.234556504346486%;
+		width: 42px;
+		height: 41.248px;
+		background-position: 37.88% 45.528940283896226%;
 	}
 
 .icon--mail {
@@ -1090,9 +1090,9 @@ a {
 	}
 
 .icon--youtube {
-		width: 34.75px;
-		height: 42px;
-		background-position: 36.69752421959096% 45.792307692307695%;
+		width: 43.679px;
+		height: 30.6px;
+		background-position: 63.76471536487836% 45.26166902404526%;
 	}
 
 .site-footer {
